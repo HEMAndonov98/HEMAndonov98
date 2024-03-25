@@ -21,4 +21,3 @@ I've been learning software engineering for close to 3 years, If you had asked m
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/HEMAndonov98"><img src="https://github-readme-stats.vercel.app/api?username=HEMAndonov98&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=ffffff&bg_color=0f172a&hide_border=true&show_icons=true" alt="HEMAndonov98's GitHub stats" /></a>
-<a href="http://www.github.com/HEMAndonov98"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=HEMAndonov98&bg_color=0f172a&color=facc15&line=ffffff&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
