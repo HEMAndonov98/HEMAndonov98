@@ -5,7 +5,7 @@ Talk code to me
 I've been learning software engineering for close to 3 years, If you had asked me 5 years ago what I thought about software development I would have said that it's above my capabilities but over the last three years I have not only learned that with consistency and discipline, it is possible to learn anything but I have also found my passion in learning and creating new things.  
 * 🌍  I'm based in Sofia 
 * ✉️  You can contact me at [hristo.andonov98@gmail.com](mailto:hristo.andonov98@gmail.com) 
-* 🧠  I'm learning ASP.Net
+* 🧠  I'm learning: React, Angular
 
 ### Skills  
 
